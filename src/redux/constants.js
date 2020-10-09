@@ -1,0 +1,10 @@
+const constants = {
+    
+    GET_INVENTORY_REQUEST: "GET_INVENTORY_REQUEST",
+    GET_INVENTORY_SUCCESS: "GET_INVENTORY_SUCCESS",
+    GET_INVENTORY_ERROR: "GET_INVENTORY_ERROR",
+  
+  };
+  
+  export default constants;
+  
